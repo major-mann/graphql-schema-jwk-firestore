@@ -1,0 +1,17 @@
+{
+  "name": "@major-mann/graphql-schema-jwk-firestore",
+  "version": "0.0.1",
+  "description": "A JWK schema backed by firestore",
+  "main": "src/index.js",
+  "dependencies": {
+    "@major-mann/datasource-firestore": "0.0.1",
+    "@major-mann/graphql-schema-jwk": "0.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "graphql",
+    "jwk"
+  ],
+  "author": "Calvin Mann <calvinmann@gmail.com>",
+  "license": "MIT"
+}
