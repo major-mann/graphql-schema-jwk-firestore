@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@major-mann/datasource-firestore": "0.0.1",
-    "@major-mann/graphql-schema-jwk": "0.0.2"
+    "@major-mann/graphql-schema-jwk": "0.0.3"
   },
   "devDependencies": {},
   "keywords": [
